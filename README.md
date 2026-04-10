@@ -4,7 +4,7 @@
 
 A comprehensive computational investigation of self-organized criticality (SOC) using the Drossel--Schwabl forest fire cellular automaton, enhanced with finite-size scaling analysis, Transfer Entropy computation, and transdisciplinary applications.
 
-**Course:** CLL 788 --- Complexity Science  
+**Course:** CLL 798 --- Complexity Science  
 **Institution:** IIT Delhi  
 **Author:** Ishaan Saini (2022CH11457)  
 **Date:** April 2026
